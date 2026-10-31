@@ -1,7 +1,7 @@
 -- GG Patch: get_IsIAP
 local LIB    = "libil2cpp.so"
 local OFFSET = 0x3D23794
-local FIX    = 4020051968
+local FIX    = 4233527296
 local NAME   = "get_IsIAP"
 
 local PATCH = {
